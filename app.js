@@ -32,6 +32,6 @@ app.get("/maps", function(req, res){
 });
 
 app.listen(3000, function(){
-    console.log("Ehtihaad Bartein ~(^_^)~");
+    console.log("Etihaad Bartein ~(^_^)~");
 
 });
